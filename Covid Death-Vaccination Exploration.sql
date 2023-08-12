@@ -1,4 +1,3 @@
-Use [Project 1]
 
 Select *
 From CovidDeaths
